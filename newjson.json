@@ -6,7 +6,7 @@
     "nickName": "Ning",
     "faculty": "Science And Technology",
     "major": "ComputerScience",
-    "birthday": "1998-10-12",
+    "birthday": "1998-10-12T00:00:00",
     "picture" : "https://raw.githubusercontent.com/604234031cs/dataFriend/master/ionic_2.jpg",
     "classroom": "Comsci Room A" 
   },
@@ -17,7 +17,7 @@
     "nickName": "Sama",
     "faculty": "Science And Technology",
     "major": "ComputerScience",
-    "birthday": "1998-11-29",
+    "birthday": "1998-11-29T00:00:00",
     "picture" : "https://raw.githubusercontent.com/604234031cs/dataFriend/master/ionic_1.jpg",
     "classroom": "Comsci Room A"  
   },
@@ -28,7 +28,7 @@
     "nickName": "Ake",
     "faculty": "Science And Technology",
     "major": "ComputerScience",
-    "birthDay": "1999-04-29",
+    "birthDay": "1999-04-29T00:00:00",
     "picture" : "https://raw.githubusercontent.com/604234031cs/dataFriend/master/ionic_3.jpg",
     "classroom": "Comsci Room A"  
   }
